@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRickAndMorty</string>
+    <string name="_name">Digite seu nome:</string>
+    <string name="phone">Digite seu telefone:</string>
+</resources>
